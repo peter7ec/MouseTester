@@ -4,7 +4,6 @@ A fast, lightweight, and cross-platform Mouse Polling Rate Tester application bu
 
 Designed to accurately measure your mouse's reporting rate (Hz) in real-time, supporting standard and high-performance gaming mice up to 1000 Hz and beyond.
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)
 ![Tech](https://img.shields.io/badge/built%20with-Silk.NET-purple)
 
@@ -40,7 +39,3 @@ Designed to accurately measure your mouse's reporting rate (Hz) in real-time, su
 
 -   **macOS Users:** If the Hz counter stays at 0, verify that the application has **Input Monitoring** permissions in *System Settings > Privacy & Security*.
 -   **Low Polling Rate:** Ensure your mouse software (Logitech G Hub, Razer Synapse, etc.) is set to the desired Hz profile.
-
-## License 📄
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
